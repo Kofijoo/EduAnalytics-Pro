@@ -1,0 +1,21 @@
+student_id,age,gender,course_type,login_frequency,assignment_completion,quiz_scores,forum_participation,study_hours_week,dropout_risk
+1001,19,M,STEM,45,0.85,78.5,12,25,0
+1002,20,F,Liberal Arts,32,0.92,85.2,8,30,0
+1003,18,M,Business,15,0.45,62.1,2,10,1
+1004,21,F,STEM,52,0.88,91.3,15,35,0
+1005,19,M,Liberal Arts,8,0.25,45.8,1,5,1
+1006,22,F,Business,38,0.78,73.4,9,22,0
+1007,20,M,STEM,41,0.82,79.6,11,28,0
+1008,18,F,Liberal Arts,12,0.35,51.2,3,8,1
+1009,21,M,Business,47,0.91,87.9,14,32,0
+1010,19,F,STEM,29,0.65,68.7,6,18,0
+1011,20,M,Liberal Arts,6,0.18,38.4,0,4,1
+1012,22,F,Business,44,0.86,82.1,13,29,0
+1013,18,M,STEM,35,0.75,76.3,8,24,0
+1014,21,F,Liberal Arts,19,0.52,59.8,4,12,1
+1015,19,M,Business,49,0.89,88.5,16,33,0
+1016,20,F,STEM,11,0.28,47.6,2,7,1
+1017,22,M,Liberal Arts,42,0.84,80.7,10,26,0
+1018,18,F,Business,33,0.71,71.9,7,20,0
+1019,21,M,STEM,48,0.93,92.1,17,36,0
+1020,19,F,Liberal Arts,14,0.41,54.3,3,9,1
